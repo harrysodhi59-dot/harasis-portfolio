@@ -138,5 +138,3 @@ Communicate results visually
 It also helped me understand how machine learning and data analysis can support environmental decision-making.
 
 📌 More project pages coming soon…
-5️⃣ Scroll down → Commit new file
-👉 Reply “NPRI done” and I will generate the Facial Keypoint Detection project page next.
