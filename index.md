@@ -79,4 +79,23 @@ GitHub: https://github.com/harrysodhi59-dot
 
 Email: harrsodhi59@gmail.com
 
-🚧 More project pages will be added soon…
+🚀 Featured Projects
+📌 YMCA Hold Behaviour & Revenue Impact (Industry WIL Project)
+
+👉 [Open Project Page](projects/ymca.md)
+
+
+📌 NPRI Oil Sands Environmental Pollution Forecast
+
+👉 [Open Project Page](projects/npri.md)
+
+
+📌 Facial Keypoint Detection (Transfer Learning CNN)
+
+👉 [Open Project Page](projects/keypoints.md)
+
+
+📌 Customer Churn Prediction (Open-Data ML Project)
+
+👉 [Open Project Page](projects/churn.md)
+
