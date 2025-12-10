@@ -171,3 +171,5 @@ Deployment considerations
 It also provided a strong open-data example of predictive modeling for my portfolio.
 
 📌 More projects coming soon…
+[⬅ Back to Home](../index.md)
+
