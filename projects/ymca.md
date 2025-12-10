@@ -163,3 +163,6 @@ Combining ML with business insights
 It was a highly valuable industry experience.
 
 📌 More projects coming soon…
+
+[⬅ Back to Home](../index.md)
+
