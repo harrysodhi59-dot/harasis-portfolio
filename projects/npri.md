@@ -138,3 +138,6 @@ Communicate results visually
 It also helped me understand how machine learning and data analysis can support environmental decision-making.
 
 📌 More project pages coming soon…
+
+[⬅ Back to Home](../index.md)
+
