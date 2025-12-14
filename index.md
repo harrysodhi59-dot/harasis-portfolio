@@ -104,4 +104,11 @@ Email: harrsodhi59@gmail.com
 
 👉 [View Project](projects/ticket-checking.md)
 
+## 🧠 Personal Reflection
+
+Through CMPT 3830: Work Integrated Learning I, I developed a stronger understanding of how technical skills are applied in real-world and industry-style projects. Working on a variety of projects—from data analysis and machine learning to programming applications—helped me connect theoretical concepts with practical implementation.
+
+I learned the importance of structured workflows such as CRISP-DM, clear documentation, and ethical handling of data, especially when working with confidential or sensitive information. Projects like the YMCA WIL analysis, NPRI environmental data exploration, and machine learning classification tasks strengthened my analytical thinking and problem-solving skills.
+
+Building programming projects such as games and applications also improved my logical reasoning and software development fundamentals. Overall, this portfolio reflects my growth as a learner and my progression toward a career in data analytics and machine learning. These experiences have helped clarify my professional goals and highlighted areas for continued learning, including model optimization, deployment, and advanced analytics tools.
 
