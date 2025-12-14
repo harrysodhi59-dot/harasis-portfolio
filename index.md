@@ -100,6 +100,8 @@ Email: harrsodhi59@gmail.com
 👉 [Open Project Page](projects/churn.md)
 
 🎟️ Ticket Checking Application
+
+
 👉 [View Project](projects/ticket-checking.md)
 
 
